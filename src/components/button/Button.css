@@ -1,0 +1,16 @@
+.btn {
+    all: unset;
+    padding: 10px 25px;
+    background-color: cadetblue;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.btn-danger {
+    background-color: rgba(236, 6, 6, 0.852);
+}
+
+.btn-success {
+    background-color: rgba(5, 160, 5, 0.934);
+}
